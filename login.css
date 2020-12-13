@@ -1,0 +1,63 @@
+body
+{
+	background-color: #E8CEBF;
+	background-size: 100% 130%;
+    background-repeat: no-repeat;
+    color: #228B22;
+}
+#log
+{
+	text-align: center;
+	margin: 0.6% auto;
+}
+form
+{
+	margin: 7% 15%;
+}
+.logo
+{
+	font-family: Acme;
+	margin-top: 0.8%;
+	color: #266150;
+	font-size: 4em;
+}
+.container
+{
+	font-family: Zilla Slab;
+	text-align: center;
+	background-color:  #4F4846;
+	margin: 3.5% auto;
+	width: 460px;
+	border-radius: 1.5em;
+	box-shadow: 3px 3px 2.5px 1.5px rgba(0, 0, 0, 0.2);
+}
+.input-group-prepend
+{
+	background-color: white;
+	width:50px;
+	display: inline-block;
+	font-size: 20px;
+	padding-top: 2%;
+	border-top-left-radius: 0.25em;
+	border-bottom-left-radius: 0.25em;
+}
+.form-control
+{
+	border: none;
+}
+input:focus{
+	outline: 0 0 0 0  !important;
+	box-shadow: 0 0 0 0 !important;
+}
+button
+{
+	width: 200px;
+	margin-top: 10%;
+	margin-bottom: 15%;
+	border-radius: 0.5em;
+	box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.4);
+}
+#forgot
+{
+	margin-top: 0.2px;
+}
